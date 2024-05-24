@@ -7,3 +7,6 @@
 df_hcond.dta
 disdif.csv
 .Rproj.user
+Data/nan_counts.csv
+Data/zero_counts.csv
+Data/combined_ukhls_data.dta

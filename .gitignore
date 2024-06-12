@@ -14,3 +14,5 @@ Data/combined_ukhls_hcond_data.dta
 Data/long_panel_ukhls_hcond_data.dta
 /Data
 /images
+combined_UKHLS_data.csv
+*.csv
